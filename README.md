@@ -33,7 +33,7 @@ contains functions that replace, extend or adapt some MATLAB built-in functions:
 contains functions to control the implementation and parameters of the algorithm: *channelsDeepDecoder.m*, *parametersDeepDecoder.m*, *svrAlgorithm.m*, *useGPU.m*.
 
 ###### ./Methods
-contains functions that implement generic methods for reconstruction: *build1DCTM.m*, *build1DFTM.m*, *buildFilter.m*, *buildStandardDCTM.m*, *buildStandardDFTM.m*, *computeROI.m*, *extractROI.m*, *fctGPU.m*, *fftGPU.m*, *filtering.m*, *flipping.m*, *fold.m*, *generateGrid.m*, *ifctGPU.m*, *ifftGPU.m*, *ifold.m*, *mirroring.m*, *resampling.m*.
+contains functions that implement generic methods for reconstruction: *build1DCTM.m*, *build1DFTM.m*, *buildFilter.m*, *buildStandardDCTM.m*, *buildStandardDFTM.m*, *computeROI.m*, *extractROI.m*, *fctGPU.m*, *fftGPU.m*, *filtering.m*, *flipping.m*, *fold.m*, *generateGrid.m*, *ifctGPU.m*, *ifftGPU.m*, *ifold.m*, *mirroring.m*, *resampling.m*, *shifting.m*.
 
 ###### ./Python/deepfetal/deepfetal
 contains python methods.
